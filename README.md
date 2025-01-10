@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello!  Cat dad and bio geek learning the ropes. 😊
+Pronouns: He/Him
 
 <!--
 **njohnst4/njohnst4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
